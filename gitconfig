@@ -1,0 +1,4 @@
+# Included by ~/.gitconfig through config.sh's _work_git_config.
+# Apply work identity only to repositories under your work directory.
+[includeIf "gitdir:~/work/your-org/"]
+  path = ~/work/your-org/.gitconfig-identity

@@ -1,0 +1,4 @@
+# Copy to ~/work/your-org/.gitconfig-identity and edit.
+[user]
+  name = Your Name
+  email = you@your-org.example
